@@ -1,2 +1,6 @@
 # codes-FIS02213
-Codes and activities carried out in the course Special Topics in Advanced Astrophysics B - IF/UFRGS
+
+***Códigos e atividades realizados na disciplina de Tópicos Especiais de Astrofísica Avançada B - Programação Científica em Python***
+
+
+
